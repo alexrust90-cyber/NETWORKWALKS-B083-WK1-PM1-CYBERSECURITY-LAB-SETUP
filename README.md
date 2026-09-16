@@ -83,5 +83,10 @@ Author: Aleksandra Rustamova, cybersecurity professional B083
 LinkedIn: https://www.linkedin.com/in/alexandra-rustamova-631a1439a/
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
 
+<img width="847" height="530" alt="Screenshot_2026-09-15_23-50-50" src="https://github.com/user-attachments/assets/5e1bbe1c-d947-4606-af11-53408e77dc1e" />
+<img width="966" height="656" alt="Screenshot_2026-09-15_17-54-22" src="https://github.com/user-attachments/assets/082709a9-15ec-4d49-8e2b-3e806f8a3b44" />
+<img width="1920" height="896" alt="Screenshot_2026-09-15_22_57_20" src="https://github.com/user-attachments/assets/8d10986b-4528-4c71-afd4-c919231ed3a6" />
+<img width="1920" height="896" alt="Screenshot_2026-09-15_22_51_42" src="https://github.com/user-attachments/assets/f9fd5e0f-ffcc-4ac5-9481-a70166a103b4" />
+<img width="1920" height="896" alt="Screenshot_2026-09-15_17_15_52" src="https://github.com/user-attachments/assets/22fbc066-c97d-4d4f-8008-fb819f209fec" />
 
    
